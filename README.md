@@ -11,7 +11,7 @@ In my PhD, I'm building an AI solution to help us regulating our emotions. You c
 ### Tech Stack Highlights  
 **Languages:** TypeScript, JavaScript, Python, PHP, Go, Java  
 **Frameworks & Tools:** Node.js, React, Docker, Terraform  
-**Cloud & Events:** AWS (Lambda, ECS, EC2, API Gateway, RDS, S3, VPC), RabbitMQ, GCP Pub/Sub 
+**Cloud & Events:** AWS (Lambda, ECS, EC2, API Gateway, RDS, S3, VPC), RabbitMQ, GCP Pub/Sub  
 **Data:** PostgreSQL, MongoDB, Redis, Elasticsearch
 
 You can find the full stack [here](tech-stack.md).
