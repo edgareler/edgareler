@@ -1,5 +1,6 @@
 ### Tech stack
 - **Backend:** Node.js (JavaScript/TypeScript), Go, Python, PHP, Java
+- **Frontend:** React, Vue.js, Vanilla JS, CSS/SASS, Tailwind
 - **Relational Databases:** PostgreSQL, MySQL, Oracle
 - **NoSQL:** MongoDB, Redis, Elasticsearch, Algolia
 - **Message Brokers:** RabbitMQ, SQS, GCP Pub/Sub
